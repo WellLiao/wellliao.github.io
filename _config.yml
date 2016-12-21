@@ -1,27 +1,27 @@
 
 # The name of your website.
-name: Holo Alfa
+name: 流浪的虾壳的文字流
 
 description:
 
   # Description of your site. This will show up in google.
-  meta: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content.
+  meta: 流浪的虾壳 流浪的侠客.
 
   # Description of your site. This will show up on the front page.
-  subtitle: Holo Alfa is a minimalist, mobile first Jekyll theme with focus on readability and content. <a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
+  subtitle: 还没想好副标题写什么. #<a href="https://github.com/steinvc/holo-alfa">&lt;/&gt; on Github</a>.
 
 author:
-  name: Dr. Jekyll # Change this!
+  name: liaoqianwen # Change this!
 
   # Necessary for contact page
-  email: your@email.com # Change this!
+  email: www.liao.qianwen@163.com # Change this!
 
   # Optional text (html) to display after author name. Leave empty if you don't
   # want it.
   info:
 
-url: http://steinvc.github.io
-baseurl: 
+url: http://wellliao.github.io
+baseurl:
 
 # language attribute in <html> element.
 lang: en
@@ -37,7 +37,8 @@ lang: en
 show-subtitle: true
 display-social-icons: false
 
-footer-text: This is the footer.<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
+# This is the footer.
+footer-text: 本博客使用Holo Alfa开源主题<br><a href="http://steinvc.github.io/holo-alfa/">Holo Alfa</a> Jekyll theme. crafted by <a href="http://steinvc.github.io/holo-alfa/">Stijn</a>.
 
 # Preferably 64px in height. Leave empty = disable.
 logo-image: # /img/logo.png
@@ -72,7 +73,7 @@ date_format: "%b %-d, %Y"
 nav-breaking-point: 520px
 
 # Number of posts on each page.
-paginate: 3
+paginate: 5
 
 # Display links for the previous and next post on post pages.
 display-next-prev-post: false
